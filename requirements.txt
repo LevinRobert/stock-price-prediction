@@ -2,3 +2,7 @@ numpy
 pandas
 matplotlib
 yfinance for datasets
+keras
+tensorflow
+minmaxscaler
+scikit-learn
